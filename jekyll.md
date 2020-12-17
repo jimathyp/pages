@@ -10,3 +10,8 @@ Files to be included are in the _includes folder.
 
 
 
+## Variables
+
+https://jekyllrb.com/docs/variables/
+
+`site.pages` a list of all pages
