@@ -1,3 +1,9 @@
+---
+layout: default
+description: Software and non-software licences
+title: Licences
+---
+
 # Licences
 
 https://choosealicense.com/
