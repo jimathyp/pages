@@ -14,5 +14,5 @@ Uses the Jekyll theme "Slate". The theme is specified in the `_config.yml` file.
 
 ## Contents
 
+* TOC
 {:toc}
-
