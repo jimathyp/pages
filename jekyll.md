@@ -2,13 +2,31 @@
 
 https://jekyllrb.com/
 
-## Escaping
+
+## Code blocks
+
+https://jekyllrb.com/docs/liquid/tags/
+
+eg. syntax highlighting
+
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+
+
+
+## Escaping  Liquid templates
 
 https://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags
 
 Can use 
 a block
- 
+
+
 {% raw  %}
 {% this %}
 {% endraw %}
