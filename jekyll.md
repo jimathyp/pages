@@ -49,3 +49,10 @@ Files to be included are in the `_includes` folder.
 https://jekyllrb.com/docs/variables/
 
 `site.pages` a list of all pages
+
+
+## Navigation
+
+https://stackoverflow.com/questions/44865393/generate-github-pages-with-navigation-elements
+
+https://stackoverflow.com/questions/13266369/how-to-change-the-default-order-pages-in-jekyll/33983971#33983971
