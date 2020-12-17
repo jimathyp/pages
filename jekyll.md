@@ -2,11 +2,27 @@
 
 https://jekyllrb.com/
 
+## Escaping
+
+https://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags
+
+Can use 
+a block
+ 
+{% raw  %}
+{% this %}
+{% endraw %}
+
+
+
 ## Includes
 
-Files to be included are in the _includes folder.
+Files to be included are in the `_includes` folder.
 
-`{% include footer.html %}`
+{% raw  %}
+{% include footer.html %}
+{% endraw %}
+
 
 
 
